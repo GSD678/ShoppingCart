@@ -1,0 +1,19 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "MERN ECommerce App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSD678/ShoppingCart.git"
+  },
+  "author": "Karim Mahmoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSD678/ShoppingCart/issues"
+  },
+  "homepage": "https://github.com/GSD678/ShoppingCart#readme"
+}
