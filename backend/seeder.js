@@ -4,8 +4,7 @@ import Product from "./models/productModel.js";
 import users from "./data/users.js";
 import product from "./data/products.js";
 import dotenv from "dotenv";
-import productModel from "./models/productModel.js";
-import products from "./data/products.js";
+
 
 dotenv.config()
 connectDB()
